@@ -5,7 +5,7 @@ A Reception Management System for Office Corporations to manage the Visitors tha
 
 There are two types of users who can use this system - The Receptionists of the office and the Owner of the office.
 Receptionists can only record information of the visitors and view them.
-The owner can view the information of the visitors, can make changes to their information and also can delete them.
+The owner can view the information of the visitors, can make changes to their information .
 
 The project can be opened and run in Visual Studio IDE.
 
